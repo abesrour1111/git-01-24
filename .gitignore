@@ -3,4 +3,4 @@ test3.txt
 #ignorer tout fichier se terminant par o
 *.o
 #ne pas ignorer l'exception test.o (! : négation)
-! test.o
+!test.o
